@@ -1,0 +1,92 @@
+h1 {
+	color: black;
+	text-align: center;
+}
+p {
+	color: black;
+	text-align: center;
+}
+.bd-example {
+    padding: 1.5rem;
+    margin-right: 0;
+    margin-left: 0;
+    border-width: 1px;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+}
+.bd-example .container .row .col {
+	padding-top: .75rem;
+    padding-bottom: .75rem;
+    background-color: rgba(39,41,43,0.03);
+    border: 1px solid rgba(39,41,43,0.1);
+}
+.bd-example .container .row .col-md-auto {
+	padding-top: .75rem;
+    padding-bottom: .75rem;
+    background-color: rgba(39,41,43,0.03);
+    border: 1px solid rgba(39,41,43,0.1);
+}
+.va_exm {
+	margin-top: 10px;
+}
+.align-items-start {
+	min-height: 10rem;
+    background-color: rgba(255,0,0,0.1);
+}
+.align-items-start .col {
+	padding-top: .75rem;
+    padding-bottom: .75rem;
+    background-color: rgba(39,41,43,0.03);
+    border: 1px solid rgba(39,41,43,0.1);
+}
+.align-items-center {
+	min-height: 10rem;
+    background-color: rgba(255,0,0,0.1);
+}
+.align-items-center .col {
+	padding-top: .75rem;
+    padding-bottom: .75rem;
+    background-color: rgba(39,41,43,0.03);
+    border: 1px solid rgba(39,41,43,0.1);
+}
+.align-items-end {
+	min-height: 10rem;
+    background-color: rgba(255,0,0,0.1);
+}
+.align-items-end .col {
+	padding-top: .75rem;
+    padding-bottom: .75rem;
+    background-color: rgba(39,41,43,0.03);
+    border: 1px solid rgba(39,41,43,0.1);
+}
+.va_exm2 {
+    padding: 1.5rem;
+    margin-right: 0;
+    margin-left: 0;
+    border-width: 1px;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+}
+.va_exm2 .container .row {
+	min-height: 10rem;
+    background-color: rgba(255,0,0,0.1);
+}
+.va_exm2 .container .row .col {
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    background-color: rgba(39,41,43,0.03);
+    border: 1px solid rgba(39,41,43,0.1);
+}
+.align-self-start {
+    align-self: flex-start!important;
+}
+.align-self-center {
+    align-self: center!important;
+}
+.align-self-end {
+    align-self: flex-end!important;
+}
+.form_wrapper {
+	width: 30%;
+	margin: 0 auto;
+}
